@@ -249,7 +249,7 @@
 //   var player = new Player(team: Team.red, name: 'John');
 // }
 
-// mixin (생성자가 없는 클래스, 재사용 가능) ---------------------------------
+// mixin (생성자가 없는 클래스, 재사용 가능) ----------------------------------
 
 // class Strong {
 //   final double strengthLevel = 199.99;
